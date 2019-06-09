@@ -1,0 +1,11 @@
+{
+  "name": "hnapi",
+  "version": "1.0.0",
+  "description": "Hacker News Unofficial Api ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bidyashish Kumar",
+  "license": "ISC"
+}
